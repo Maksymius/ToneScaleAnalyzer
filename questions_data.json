@@ -1,0 +1,634 @@
+{
+    "questions": [
+        {
+            "question_id": 1,
+            "text": "Я никогда не болею.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 2,
+            "text": "Все люди в глубине души хорошие.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 3,
+            "text": "Когда я вспоминаю что-нибудь, я могу видеть это.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 4,
+            "text": "Когда я вспоминаю какие-либо звуки, я могу слышать их.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 5,
+            "text": "Я прекрасно выполняю работу и всегда заканчиваю то, что начинаю.",
+            "answer": null,
+            "group": "test2"
+        },
+        {
+            "question_id": 6,
+            "text": "Со мной не бывает несчастных случаев.",
+            "answer": null,
+            "group": "test2"
+        },
+        {
+            "question_id": 7,
+            "text": "Жить — весёлая штука.",
+            "answer": null,
+            "group": "test2"
+        },
+        {
+            "question_id": 8,
+            "text": "Я люблю людей.",
+            "answer": null,
+            "group": "test2"
+        },
+        {
+            "question_id": 9,
+            "text": "Я рассказываю людям о своих глубоких убеждениях.",
+            "answer": null,
+            "group": "test2"
+        },
+        {
+            "question_id": 10,
+            "text": "Иногда вы должны разрушить что-то, если это вам угрожает.",
+            "answer": null,
+            "group": "test3"
+        },
+        {
+            "question_id": 11,
+            "text": "У меня есть симптомы артрита, камней в почках или других болезней, связанных с отложением веществ.",
+            "answer": null,
+            "group": "test3"
+        },
+        {
+            "question_id": 12,
+            "text": "Я свободно делаю хорошие дела, которые хочу сделать.",
+            "answer": null,
+            "group": "test4"
+        },
+        {
+            "question_id": 13,
+            "text": "Я считаю, что мы все более или менее правы.",
+            "answer": null,
+            "group": "test4"
+        },
+        {
+            "question_id": 14,
+            "text": "У меня всегда есть собственность и я получаю удовольствие от обладания ею.",
+            "answer": null,
+            "group": "test4"
+        },
+        {
+            "question_id": 15,
+            "text": "Неважно, насколько изменяются обстоятельства, я переживу это.",
+            "answer": null,
+            "group": "test5"
+        },
+        {
+            "question_id": 16,
+            "text": "Я всегда отстаиваю свою правоту, даже когда подозреваю, что я не прав.",
+            "answer": null,
+            "group": "test5"
+        },
+        {
+            "question_id": 17,
+            "text": "Консервативное отношение зачастую наилучшее.",
+            "answer": null,
+            "group": "test6"
+        },
+        {
+            "question_id": 18,
+            "text": "Человек не может всегда быть прав.",
+            "answer": null,
+            "group": "test6"
+        },
+        {
+            "question_id": 19,
+            "text": "Вы не можете позволить людям делать то, что они хотят.",
+            "answer": null,
+            "group": "test7"
+        },
+        {
+            "question_id": 20,
+            "text": "Иногда я не протестую, даже когда я знаю, что я прав.",
+            "answer": null,
+            "group": "test7"
+        },
+        {
+            "question_id": 21,
+            "text": "Ответственность может принести вам вред.",
+            "answer": null,
+            "group": "test7"
+        },
+        {
+            "question_id": 22,
+            "text": "Мне нравится, когда люди разговаривают со мной.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 23,
+            "text": "Мне нравится разговаривать с людьми.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 24,
+            "text": "Я никогда не забываю отправить письмо по почте, когда меня попросили об этом.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 25,
+            "text": "В любой идее может содержаться доля правды.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 26,
+            "text": "Я не слушаю плохие новости.",
+            "answer": null,
+            "group": "test2"
+        },
+        {
+            "question_id": 27,
+            "text": "В мире больше правильных вещей, чем неправильных.",
+            "answer": null,
+            "group": "test2"
+        },
+        {
+            "question_id": 28,
+            "text": "Обдумывание новых проектов так же интересно, как и секс.",
+            "answer": null,
+            "group": "test2"
+        },
+        {
+            "question_id": 29,
+            "text": "Все дети ужасны.",
+            "answer": null,
+            "group": "test2"
+        },
+        {
+            "question_id": 30,
+            "text": "Я открыто сержусь на людей.",
+            "answer": null,
+            "group": "test3"
+        },
+        {
+            "question_id": 31,
+            "text": "Не будет никакого вреда в том, что вы твёрдо стоите на своём.",
+            "answer": null,
+            "group": "test3"
+        },
+        {
+            "question_id": 32,
+            "text": "Некоторые люди омерзительны.",
+            "answer": null,
+            "group": "test3"
+        },
+        {
+            "question_id": 33,
+            "text": "Я в очень большой степени являюсь сам собой и использую это с максимальной выгодой.",
+            "answer": null,
+            "group": "test4"
+        },
+        {
+            "question_id": 34,
+            "text": "Будущее содержит в себе очень много всего.",
+            "answer": null,
+            "group": "test4"
+        },
+        {
+            "question_id": 35,
+            "text": "Я приспосабливаю себя к ситуациям так, как это требуется.",
+            "answer": null,
+            "group": "test4"
+        },
+        {
+            "question_id": 36,
+            "text": "Людям лучше было бы воспринимать ответственность серьёзно.",
+            "answer": null,
+            "group": "test5"
+        },
+        {
+            "question_id": 37,
+            "text": "Я владею тем, чем я владею, вопреки им.",
+            "answer": null,
+            "group": "test5"
+        },
+        {
+            "question_id": 38,
+            "text": "Жизнь может быть серьёзной.",
+            "answer": null,
+            "group": "test6"
+        },
+        {
+            "question_id": 39,
+            "text": "Собственность может иногда причинять беспокойство.",
+            "answer": null,
+            "group": "test6"
+        },
+        {
+            "question_id": 40,
+            "text": "Иногда я боюсь, что потеряю какие-нибудь вещи.",
+            "answer": null,
+            "group": "test7"
+        },
+        {
+            "question_id": 41,
+            "text": "Я не могу быть собой.",
+            "answer": null,
+            "group": "test7"
+        },
+        {
+            "question_id": 42,
+            "text": "Прошлое достаточно отвратительно.",
+            "answer": null,
+            "group": "test7"
+        },
+        {
+            "question_id": 43,
+            "text": "Противоположный пол приводит меня в восхищение.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 44,
+            "text": "Я никогда не проявляю нетерпение по отношению к детям, как бы шумными они не были.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 45,
+            "text": "Дела всегда идут так, как я хочу, за исключением каких-либо совсем уж необычных обстоятельств.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 46,
+            "text": "Я нужен многим людям.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 47,
+            "text": "Я — полный хозяин для самого себя и своего окружения.",
+            "answer": null,
+            "group": "test2"
+        },
+        {
+            "question_id": 48,
+            "text": "Все мои мысли созидательны и конструктивны.",
+            "answer": null,
+            "group": "test2"
+        },
+        {
+            "question_id": 49,
+            "text": "Моя честность не подвергается сомнению.",
+            "answer": null,
+            "group": "test2"
+        },
+        {
+            "question_id": 50,
+            "text": "Я всегда говорю правду в любых обстоятельствах, несмотря ни на какие последствия.",
+            "answer": null,
+            "group": "test2"
+        },
+        {
+            "question_id": 51,
+            "text": "Многие люди по большей части не правы.",
+            "answer": null,
+            "group": "test3"
+        },
+        {
+            "question_id": 52,
+            "text": "Люди, которые чрезмерно увлекаются сексом, должны быть наказаны.",
+            "answer": null,
+            "group": "test3"
+        },
+        {
+            "question_id": 53,
+            "text": "Для того чтобы люди стали хорошими, их надо наказывать.",
+            "answer": null,
+            "group": "test3"
+        },
+        {
+            "question_id": 54,
+            "text": "Людьми надо управлять «железной рукой».",
+            "answer": null,
+            "group": "test3"
+        },
+        {
+            "question_id": 55,
+            "text": "Мне нравится реальность такой, какой я её нахожу.",
+            "answer": null,
+            "group": "test4"
+        },
+        {
+            "question_id": 56,
+            "text": "Доверять можно всему.",
+            "answer": null,
+            "group": "test4"
+        },
+        {
+            "question_id": 57,
+            "text": "Я так или иначе должен стать самим собой.",
+            "answer": null,
+            "group": "test5"
+        },
+        {
+            "question_id": 58,
+            "text": "Я едва могу смотреть в лицо будущему.",
+            "answer": null,
+            "group": "test5"
+        },
+        {
+            "question_id": 59,
+            "text": "Человек не может всегда быть самим собой.",
+            "answer": null,
+            "group": "test6"
+        },
+        {
+            "question_id": 60,
+            "text": "Следует заботиться о настоящем.",
+            "answer": null,
+            "group": "test6"
+        },
+        {
+            "question_id": 61,
+            "text": "Я ненавижу ждать.",
+            "answer": null,
+            "group": "test7"
+        },
+        {
+            "question_id": 62,
+            "text": "Ложь часто может сослужить лучшую службу, чем правда.",
+            "answer": null,
+            "group": "test7"
+        },
+        {
+            "question_id": 63,
+            "text": "Жизнь часто бывает угрожающей.",
+            "answer": null,
+            "group": "test7"
+        },
+        {
+            "question_id": 64,
+            "text": "Лучшее всего быть всегда честным, невзирая ни на что.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 65,
+            "text": "Я не напуган.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 66,
+            "text": "Мне нравится нести ответственность.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 67,
+            "text": "Когда я делаю что-то конструктивное, я никогда не сворачиваю в сторону.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 68,
+            "text": "Я никогда не боялся.",
+            "answer": null,
+            "group": "test2"
+        },
+        {
+            "question_id": 69,
+            "text": "Иногда я чувствую себя ответственным за каждого и за весь мир в целом.",
+            "answer": null,
+            "group": "test2"
+        },
+        {
+            "question_id": 70,
+            "text": "Когда я занят в какой-нибудь созидательной деятельности, ничто не может заставить меня отступиться от этого.",
+            "answer": null,
+            "group": "test2"
+        },
+        {
+            "question_id": 71,
+            "text": "Жизнь всегда была удивительна.",
+            "answer": null,
+            "group": "test2"
+        },
+        {
+            "question_id": 72,
+            "text": "Невозможно быть полностью высоконравственным.",
+            "answer": null,
+            "group": "test3"
+        },
+        {
+            "question_id": 73,
+            "text": "Цель оправдывает средства, даже если вам приходится лгать.",
+            "answer": null,
+            "group": "test3"
+        },
+        {
+            "question_id": 74,
+            "text": "Обычно я смел.",
+            "answer": null,
+            "group": "test3"
+        },
+        {
+            "question_id": 75,
+            "text": "Обычно я добиваюсь такого положения, когда мне приходится нести ответственность, невзирая на противодействие.",
+            "answer": null,
+            "group": "test3"
+        },
+        {
+            "question_id": 76,
+            "text": "Я в состоянии понять всё, что угодно.",
+            "answer": null,
+            "group": "test4"
+        },
+        {
+            "question_id": 77,
+            "text": "Жизнь оказывает на меня положительное влияние.",
+            "answer": null,
+            "group": "test4"
+        },
+        {
+            "question_id": 78,
+            "text": "Если кто-нибудь делает мне угрожающее замечания, я нахожу способ ответить на них.",
+            "answer": null,
+            "group": "test5"
+        },
+        {
+            "question_id": 79,
+            "text": "Иногда действительность бывает угрожающей.",
+            "answer": null,
+            "group": "test5"
+        },
+        {
+            "question_id": 80,
+            "text": "Люди пытаются говорить вам плохое.",
+            "answer": null,
+            "group": "test6"
+        },
+        {
+            "question_id": 81,
+            "text": "Иногда человек должен быть кем-то иным.",
+            "answer": null,
+            "group": "test6"
+        },
+        {
+            "question_id": 82,
+            "text": "Общественная ложь не слишком серьёзна.",
+            "answer": null,
+            "group": "test6"
+        },
+        {
+            "question_id": 83,
+            "text": "Если кто-то что-то узнает, это будет плохо.",
+            "answer": null,
+            "group": "test7"
+        },
+        {
+            "question_id": 84,
+            "text": "Я иногда боюсь получить неизлечимое повреждение.",
+            "answer": null,
+            "group": "test7"
+        },
+        {
+            "question_id": 85,
+            "text": "Я всегда улавливаю суть шуток, которые мне говорят.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 86,
+            "text": "Люди очень любят работать сообща.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 87,
+            "text": "Будущее содержит гораздо больше для меня.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 88,
+            "text": "У меня нет порывов, которые я не могу объяснить.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 89,
+            "text": "Всё, что я делаю, доставляет мне удовольствие.",
+            "answer": null,
+            "group": "test1"
+        },
+        {
+            "question_id": 90,
+            "text": "Единственный способ получить поддержку от людей - привести их в состояние энтузиазма относительно этого.",
+            "answer": null,
+            "group": "test2"
+        },
+        {
+            "question_id": 91,
+            "text": "Будущее более важно, чем настоящее.",
+            "answer": null,
+            "group": "test2"
+        },
+        {
+            "question_id": 92,
+            "text": "Жизнь была создана только для того, чтобы получать удовольствие.",
+            "answer": null,
+            "group": "test2"
+        },
+        {
+            "question_id": 93,
+            "text": "У человека нет никакого другого выбора, кроме как уничтожать своих врагов.",
+            "answer": null,
+            "group": "test3"
+        },
+        {
+            "question_id": 94,
+            "text": "Критика положительно влияет на людей.",
+            "answer": null,
+            "group": "test3"
+        },
+        {
+            "question_id": 95,
+            "text": "Когда я становлюсь раздражённым, лучший для меня способ почувствовать себя лучше - это разрушить что-нибудь.",
+            "answer": null,
+            "group": "test3"
+        },
+        {
+            "question_id": 96,
+            "text": "Жизнь - это серьёзное предприятие и в ней немного удовольствия.",
+            "answer": null,
+            "group": "test3"
+        },
+        {
+            "question_id": 97,
+            "text": "Я всегда являюсь самим собой и никогда не изменяю своей индивидуальности, когда я говорю с людьми.",
+            "answer": null,
+            "group": "test4"
+        },
+        {
+            "question_id": 98,
+            "text": "Я не против ответственности.",
+            "answer": null,
+            "group": "test4"
+        },
+        {
+            "question_id": 99,
+            "text": "Иногда вы должны возражать против чего-либо, но вы должны быть любезными в этой ситуации.",
+            "answer": null,
+            "group": "test5"
+        },
+        {
+            "question_id": 100,
+            "text": "Даже если вам не нравятся люди, вы должны быть самим собой при общении с ними.",
+            "answer": null,
+            "group": "test5"
+        },
+        {
+            "question_id": 101,
+            "text": "Я всегда должен быть счастлив.",
+            "answer": null,
+            "group": "test5"
+        },
+        {
+            "question_id": 102,
+            "text": "Люди доверяют мне.",
+            "answer": null,
+            "group": "test6"
+        },
+        {
+            "question_id": 103,
+            "text": "Я могу понять что-либо, когда я сосредотачиваюсь, и всегда был способен делать это.",
+            "answer": null,
+            "group": "test6"
+        },
+        {
+            "question_id": 104,
+            "text": "Люди встали у меня на пути.",
+            "answer": null,
+            "group": "test7"
+        },
+        {
+            "question_id": 105,
+            "text": "Я никогда не чувствовал боли.",
+            "answer": null,
+            "group": "test7"
+        }
+    ]
+}
